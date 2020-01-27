@@ -1,17 +1,13 @@
-# React/Webpack boilerplate
+# 🍕 Pizza 🍕
 
-## Dependencies
-* React Router
-* Styled Components
-* Babel config
-* Prettier config
+Which pizza topping combinations are the most popular?
 
 ## Setup
 
-`npm i`
+    npm i
 
 ## Development
 
-`npm start`
+    npm start
 
-Outputs a build file when running dev server--for faster deployment on GitHub Pages.
+Starts a development server at `localhost:8080`.
