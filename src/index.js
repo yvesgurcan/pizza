@@ -1,10 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import PopulatToppings from './PopularToppings';
-import orders from '../data/pizzas.json';
+import PizzApp from './PizzApp';
 
-ReactDOM.render(
-    <PopulatToppings orders={orders} />,
-    document.getElementById('app')
-);
+ReactDOM.render(<PizzApp />, document.getElementById('app'));
