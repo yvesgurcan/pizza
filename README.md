@@ -1,3 +1,5 @@
+# PizzApp
+
 🍕 Which pizza topping combinations are the most popular?
 
 Go to https://pizza.yvesgurcan.com/ to find out!
