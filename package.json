@@ -16,7 +16,8 @@
     },
     "browser": "index.html",
     "scripts": {
-        "start": "webpack-dev-server"
+        "start": "webpack-dev-server",
+        "test": "jest"
     },
     "devDependencies": {
         "@babel/core": "^7.8.3",
@@ -27,9 +28,10 @@
         "babel-plugin-styled-components": "^1.10.6",
         "clean-webpack-plugin": "^3.0.0",
         "html-webpack-plugin": "^3.2.0",
+        "jest": "^25.1.0",
         "react": "^16.12.0",
         "react-dom": "^16.12.0",
-        "styled-components": "^5.0.0",
+        "react-testing-library": "^8.0.1",
         "webpack": "^4.41.5",
         "webpack-cli": "^3.3.10",
         "webpack-dev-server": "^3.10.1"

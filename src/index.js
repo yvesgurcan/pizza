@@ -1,9 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import styled from 'styled-components';
+import PopulatToppings from './PopularToppings';
 
-const PizzApp = () => {
-    return 'bonjour';
-};
-
-ReactDOM.render(<PizzApp />, document.getElementById('app'));
+ReactDOM.render(<PopulatToppings />, document.getElementById('app'));
