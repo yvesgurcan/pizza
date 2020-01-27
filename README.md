@@ -4,9 +4,7 @@
 
 Go to https://pizza.yvesgurcan.com/ to find out!
 
-This application:
-
--   Outputs the top 20 most frequently ordered pizza topping combinations along with their rank and the number of times that combination has been ordered.
+This application outputs the most frequently ordered pizza topping combinations along with their rank and the number of times these combinations have been ordered.
 
 ## Setup
 
