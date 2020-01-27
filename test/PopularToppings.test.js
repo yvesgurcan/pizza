@@ -6,10 +6,8 @@ import PopularToppings from '../src/PopularToppings';
 import orders from './fixtures/orders';
 
 describe('PizzApp', function() {
-    test('Player should instantiate', () => {
-        const { getByText, getByRole } = render(
-            <PopularToppings orders={orders.sample} />
-        );
-        expect(true).toBe(true);
+    test('Displays title.', () => {
+        const { getByRole } = render(<PopularToppings />);
+        expect(getByRole('heading')).toHaveTextContent('PizzApp');
     });
 });
