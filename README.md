@@ -2,7 +2,9 @@
 
 🍕 Which pizza topping combinations are the most popular?
 
-Go to https://pizza.yvesgurcan.com/ to find out!
+Go to http://pizza.yvesgurcan.com/?not_secure to find out!
+
+🔓 Please not that since the data comes from an unprotected source, the application can not be served over HTTPS. Sorry!
 
 This application outputs the most frequently ordered pizza topping combinations along with their rank and the number of times these combinations have been ordered.
 
