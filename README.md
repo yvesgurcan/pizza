@@ -1,4 +1,4 @@
-# 🍕 Pizza 🍕
+# 🍕 Pizza
 
 Which pizza topping combinations are the most popular?
 
