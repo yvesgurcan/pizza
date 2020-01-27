@@ -1,6 +1,4 @@
-# 🍕 Pizza
-
-Which pizza topping combinations are the most popular?
+🍕 Which pizza topping combinations are the most popular?
 
 ## Setup
 
