@@ -1,15 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Switch } from 'react-router';
-import { HashRouter, Route } from 'react-router-dom';
+import styled from 'styled-components';
 
-import Home from './Home';
+const PizzApp = () => {
+    return 'bonjour';
+};
 
-ReactDOM.render(
-    <HashRouter>
-        <Switch>
-            <Route path="/" component={Home} />
-        </Switch>
-    </HashRouter>,
-    document.getElementById('app')
-);
+ReactDOM.render(<PizzApp />, document.getElementById('app'));
